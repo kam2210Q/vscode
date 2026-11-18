@@ -1,0 +1,42 @@
+GitHub
+
+whatever i recorded yesterday is accidently deleted (bcoz i pressed discard recording instead of stop)
+
+
+1. adding git id to system using command :- 
+  git 
+  git config --global user.name "kam2210Q"
+  git config --global user.email "kam2020q@gmail.com"
+
+2. go to vs code to clone with GitHub
+   .create a folder
+   .next new folder select in vscode
+   .next clone repo > git clone /link
+   .(don't) if u want change the local folder into a diff. subfolder by > cd /folder.name" 
+
+  and so on in youtube 
+
+
+
+3.(wrong logic) here to add this on local folder we to use > git add /file
+
+note;- here the problem whenever I clone it it goes to vscode , but in ytube he doesn't havr that problem. // sorry I am not saw clearly , he is just using which on the name of repo
+
+4. to add the file to folder >git commit -m "comments"
+
+5. to add to  GitHub > git push origin main
+
+succex
+
+3
+2
+1
+
+3
+2
+1
+succex
+
+
+now lets do it for ubuntu
+
